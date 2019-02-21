@@ -5,6 +5,7 @@ public class HelloGit {
     {
         System.out.println("你好,Git!!");
         test();
+        //测试成功
     }
 
     public static void test(){
